@@ -1,0 +1,27 @@
+{
+    "kind":"LanguageDetectionResults",
+    "results":{
+        "documents":[
+            {
+                "detectedLanguage":{
+                    "confidenceScore":1,
+                    "iso6391Name":"en",
+                    "name":"English"
+                },
+                "id":"1",
+                "warnings":[]
+            },
+            {
+                "detectedLanguage":{
+                    "confidenceScore":1,
+                    "iso6391Name":"fr",
+                    "name":"French"
+                },
+                "id":"2",
+                "warnings":[]
+            }
+        ],
+        "errors":[],
+        "ModelVersion":"2022-10-01"
+    }
+}
