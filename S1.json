@@ -1,0 +1,15 @@
+{
+    "kind":"SentimentAnalysis",
+    "parameters":{
+        "modelVersion":"latest"
+    },
+    "analysisInput":{
+        "documents":[
+            {
+                "id":"1",
+                "language": "en",
+                "text": "You must be the change you wish to see in the world."
+            }
+        ]
+    }
+}
